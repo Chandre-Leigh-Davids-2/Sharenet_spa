@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+.nav-Heading{
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
+    font-size: 3vw;
+    text-align: center !important;
+}
+nav{
+    background-color: rgb(185, 184, 184);
+}
+.navbar-nav .nav-link {
+    color: white !important; /* Change to your desired color */
+    text-decoration: none;
+}
+#app{
+    overflow-x: hidden;
+}
+
